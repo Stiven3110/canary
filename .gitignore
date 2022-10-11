@@ -1,0 +1,4 @@
+__pycache__
+.vscode
+env
+sql_app.db
